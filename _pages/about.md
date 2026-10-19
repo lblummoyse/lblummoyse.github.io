@@ -9,13 +9,12 @@ redirect_from:
 
 
 
-I am a postdoctoral researcher in the [Integrative Biophysics Group](https://www.exc.uni-konstanz.de/collective-behaviour/about-us/people/integrative-biophysics-group/) at the Centre for the Advanced Study of Collective Behaviour, University of Konstanz, working with Ahmed El Hady. I build mathematical and computational models to understand cognitive dynamics, from neuronal populations to foraging groups.
+I am a postdoctoral researcher in the [Integrative Biophysics Group](https://www.exc.uni-konstanz.de/collective-behaviour/about-us/people/integrative-biophysics-group/) at the Centre for the Advanced Study of Collective Behaviour, University of Konstanz, working with Ahmed El Hady. I build mathematical and computational models to understand cognitive dynamics, from neuronal populations to foraging groups. My work draws on dynamical systems theory and stochastic differential equations, combining analytical approaches with numerical simulations.
 
 I trained in physics and biology at the École Normale Supérieure de Lyon, and received my PhD in computational neuroscience from INSA Lyon in 2023, supervised by Hugues Berry.
 
 Research interests
 ======
-
 ## Cognitive processes underlying foraging
 
 Animals constantly decide when to leave a food patch and where to go next, often while sharing information with others. I develop analytically tractable models of these decisions, based on evidence accumulation (drift-diffusion) processes, to link individual cognition to collective dynamics:
