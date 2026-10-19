@@ -29,7 +29,7 @@ Experience
 
 * **Visiting research fellow**, Mathematical, Computational and Experimental Neuroscience group, Basque Center for Applied Mathematics, Bilbao, Spain
   * 01/10/2023 - 30/11/2023
-  * Supervisoris: Serafim Rodrigues, Mathieu Desroches
+  * Supervisors: Serafim Rodrigues, Mathieu Desroches
 
 * **Research internship**, University of Florence, Italy
   * 01/06/2019 - 31/08/2019
