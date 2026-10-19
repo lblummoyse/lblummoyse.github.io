@@ -25,12 +25,12 @@ Experience
 
 * **Visiting research fellow**, Mathematical, Computational and Experimental Neuroscience group, Basque Center for Applied Mathematics, Bilbao, Spain
   * 01/10/2023 – 30/11/2023
-  * Collaborators: Serafim Rodrigues, Mathieu Desroches
+  * Supervisoris: Serafim Rodrigues, Mathieu Desroches
 
 * **PhD in computational neuroscience**, INSA Lyon, LIRIS, Lyon, France
   * 01/09/2020 – 31/08/2023, defended 14/09/2023
   * Thesis: *Computational neuroscience models at different levels of abstraction for synaptic plasticity, astrocyte modulation of synchronization and systems memory consolidation*
-  * Supervisor: Hugues Berry
+  * Supervisors: Hugues Berry, Jonathan Rouzaud-Cornabas
 
 * **Research internship**, University of Florence, Italy
   * 01/06/2019 – 31/08/2019
