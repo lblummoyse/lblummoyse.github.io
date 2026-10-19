@@ -22,6 +22,11 @@ Animals constantly decide when to leave a food patch and where to go next, often
 * **Social foraging in egalitarian groups**: how different forms of social information shape patch-leaving decisions, group cohesion and accuracy ([PRX Life, 2025](https://doi.org/10.1103/mqxr-1nyv)).
 * **Social hierarchy**: how leaders and followers, and misinformation between them, shape foraging decisions ([Phys. Rev. Research, 2026](https://doi.org/10.1103/5vfb-jg8f)).
 * **Models and data**: model selection and parameter identifiability for socio-cognitive foraging models ([arXiv, 2026](https://arxiv.org/abs/2609.36231)), and combining reinforcement-learning and drift-diffusion models to analyse human collective foraging ([PsyArXiv, 2025](https://doi.org/10.31234/osf.io/a3ptk_v1)).
+* **Foraging in a continuous food landscape**: Work in progress
+
+## Dynamics of collective narratives
+* **Modeling of Twitter data**: Work in progress
+  
 
 ## Computational neuroscience
 
