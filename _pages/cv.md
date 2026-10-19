@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * **PhD in computational neuroscience**, INSA Lyon, LIRIS, Lyon, France
-  * 01/09/2020 - 31/08/2023, defended 14/09/2023
+  * 01/09/2020 - 31/08/2023
   * Thesis: *Computational neuroscience models at different levels of abstraction for synaptic plasticity, astrocyte modulation of synchronization and systems memory consolidation*
   * Supervisors: Hugues Berry, Jonathan Rouzaud-Cornabas
 * **Master of Physics**, École Normale Supérieure de Lyon, 2018 - 2020
