@@ -32,6 +32,6 @@ Animals constantly decide when to leave a food patch and where to go next, often
 
 During my PhD, I developed theoretical models at increasing levels of abstraction to address questions arising from neuroscience experiments:
 
-* **Synaptic plasticity**: a model of input-timing-dependent plasticity at cortico- and thalamo-striatal synapses, calibrated on ex vivo data, in collaboration with Laurent Venance's laboratory.
+* **Synaptic plasticity**: a model of input-timing-dependent plasticity at cortico- and thalamo-striatal synapses, calibrated on ex vivo data, in collaboration with Laurent Venance's laboratory ([PhD thesis, Chapter 2](https://theses.hal.science/tel-04390158/)).
 * **Astrocytes and neuronal synchronization**: how astrocytes modulate the spontaneous switching between Up and Down states in cortical networks ([PLOS Comput. Biol., 2022](https://doi.org/10.1371/journal.pcbi.1010296)), and how this affects the emergence of seizure-like events (work in progress).
 * **Systems memory consolidation**: a coupled neural field model of the hippocampus and neocortex, showing how neocortical size and hippocampal neurogenesis can explain the standard consolidation theory ([J. Theor. Biol., 2024](https://doi.org/10.1016/j.jtbi.2024.111818)).
